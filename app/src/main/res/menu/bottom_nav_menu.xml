@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/premier_league"
+        android:title="@string/england_menu_text"
+        android:icon="@drawable/ac_running_24"/>
+
+    <item android:id="@+id/la_liga"
+        android:title="@string/spain_menu_text"
+        android:icon="@drawable/ic_computer_24"/>
+
+    <item android:id="@+id/league_un"
+        android:title="@string/france_menu_text"
+        android:icon="@drawable/ic_computer_24"/>
+
+</menu>

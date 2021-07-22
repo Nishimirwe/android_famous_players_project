@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Famous Players</string>
+    <string name="test_1">Test 1</string>
+    <string name="running_icon">Running</string>
+    <string name="england_menu_text">England</string>
+    <string name="spain_menu_text">Spain</string>
+    <string name="france_menu_text">France</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
